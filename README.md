@@ -1,0 +1,2 @@
+# schneckenrennen
+Ein kleines Gruppenprojekt
